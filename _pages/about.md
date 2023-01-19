@@ -16,7 +16,7 @@ with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
 **If you are interested in working with me as a research intern, please feel free to drop me an email through jiasenl at allenai dot org.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
-<img src="/images/dart.png" width="2.5%"/> \[12/2022\] Serving as an Area Chair for [ACL 2023](https://2023.aclweb.org/).<br/>
+<img src="/images/dart.png" width="2.5%"/> \[1/2023\] Serving as an Area Chair for [ACL 2023](https://2023.aclweb.org/).<br/>
 <img src="/images/dart.png" width="2.5%"/> \[12/2022\] Serving as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
 <img src="/images/dart.png" width="2.5%"/> \[10/2022\] Serving as an SPC for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).<br/>
 
