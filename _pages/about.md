@@ -15,6 +15,12 @@ with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
 
 **If you are interested in working with me as a research intern, please feel free to drop me an email through jiasenl at allenai dot org.**
 
+<h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
+<img src="/images/dart.png" width="2.5%"/> \[12/2022\] Serving as an Area Chair for [ACL 2023](https://2023.aclweb.org/).<br/>
+<img src="/images/dart.png" width="2.5%"/> \[12/2022\] Serving as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
+<img src="/images/dart.png" width="2.5%"/> \[10/2022\] Serving as an SPC for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).<br/>
+
+
 <!-- ====== -->
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
