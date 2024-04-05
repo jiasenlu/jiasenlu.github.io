@@ -13,8 +13,6 @@ Prior to joining AI2 at Feb, 2020, I earned my Ph.D. in Computer Science from Sc
 "Visually Grounded Language understanding and Generation". I was fortunte to be supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and work closely 
 with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
 
-**If you are interested in working with me as a research intern, please feel free to drop me an email through jiasenl at allenai dot org.**
-
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
 <img src="/images/dart.png" width="2.5%"/> \[1/2023\] Serving as an Area Chair for [ACL 2023](https://2023.aclweb.org/).<br/>
 <img src="/images/dart.png" width="2.5%"/> \[12/2022\] Serving as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
