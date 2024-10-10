@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a research scientist in Prior at Allen Institute for AI, Seattle. My research interests span in computer vision, vision & language.
+Hi, I am Staff research scientist in Apple. Earlier, I was a Senior Research Scientist at Prior at Allen Institute for AI, Seattle, Leading multimodal LLM efforts, inclduing Unified-IO, Unified-IO 2 and Molmo. My research interests span in computer vision, vision & language.
 Prior to joining AI2 at Feb, 2020, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu) with thesis 
 "Visually Grounded Language understanding and Generation". I was fortunte to be supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and work closely 
 with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
